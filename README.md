@@ -82,3 +82,5 @@ To undo only the hosts file changes, open `C:\Windows\System32\drivers\etc\hosts
 ## License
 
 MIT — do whatever you want with it.
+
+**Tested on:** Windows 10 22H2, Windows 11 23H2
